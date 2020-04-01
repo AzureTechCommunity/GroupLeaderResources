@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/AzureTechCommunity/GroupLeaderResources/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Group Leader Resources page on Azure Tech Community. 
+This site is for online and in-person meetup organizers who lead workshops and events related to Microsoft Azure. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Resources
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AzureTechCommunity/GroupLeaderResources/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Resource                                                                                                                 | Description                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Home](https://azuretechcommunity.github.io/GroupLeaderResources/)                                                                                            | This site can always be found at [https://azuretechcommunity.github.io/GroupLeaderResources/](https://azuretechcommunity.github.io/GroupLeaderResources/)                                                              |
+| [Quarterly Calls](https://github.com/AzureTechCommunity/GroupLeaderResources/tree/master/QuarterlyCalls)                                                                                   | If you miss a quarterly call, you can find replays and presentations here                                                                                     |
+| [Monthly Communications](https://github.com/AzureTechCommunity/GroupLeaderResources/tree/master/MonthlyComms)                                                                                   | Find archives of monthly communications for Azure Tech Communities Group Leaders                                                                            |
+| [Azure Open Source Labs](https://github.com/AzureTechCommunity/azure-opensource-labs)
+                                                          | A collection of labs demonstrating how to build Open Source applications with Azure, Visual Studio Code and the Windows Subsytem for Linux (WSL).                                                                            |
+| [Questions](https://github.com/AzureTechCommunity/GroupLeaderResources/issues/new?assignees=&labels=&template=questions.md&title=) | Add to the GitHub issue tracker and tag it as a question                                                                                   |
