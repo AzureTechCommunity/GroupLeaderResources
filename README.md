@@ -1,6 +1,6 @@
 ## Welcome
 
-Welcome to the Group Leader Resources page on Azure Tech Community. 
+Welcome to the Azure Tech Groups Leader Resources page on Azure Tech Community. 
 This site is for online and in-person meetup organizers who lead workshops and events related to Microsoft Azure. 
 
 ## Resources
