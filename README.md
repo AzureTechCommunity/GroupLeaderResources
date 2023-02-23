@@ -1,3 +1,7 @@
+# **This content has been archived.**
+Please refer to Azure Tech Groups [program documentation](https://aka.ms/azure-tech-groups) for more information.
+
+
 ## Welcome
 
 Welcome to the Azure Tech Groups Leader Resources page on Azure Tech Community. 
